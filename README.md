@@ -4,7 +4,7 @@ Professional software engineer specializing in both blockchain and web developme
 
 ⚡ Skill sets
 - React / Redux, Next.js
-- Cosmos SDK, CosWasm, Solana, Ethereum
+- Solana, Ethereum, Cosmos SDK, CosWasm 
 - Angular, RxJs
 - REST, GraphQL, gRPC
 - HTML/CSS, JavaScript, TypeScript, PHP, Python, Solidity, Go, Rust 
