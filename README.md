@@ -1,16 +1,14 @@
-### Hi there 👋
+### Senior Web3 Developer focusing on Ethereum, Solana and Cosmos
 
-<!--
-**incrediblegig/incrediblegig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Professional software engineer specializing in both blockchain and web development with 7 years of experience.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ Skill sets
+- React / Redux, Next.js
+- Cosmos SDK, CosWasm, Solana, Ethereum
+- Angular, RxJs
+- REST, GraphQL, gRPC
+- HTML/CSS, JavaScript, TypeScript, PHP, Python, Solidity, Go, Rust 
+- Elastic Search, Nginx, Redis
+- MySQL, PostgreSQL, SQLite, MongoDB
+- Laravel, Django, Flask, Node.js, Express.js
+- Dokcer, AWS, Kubernetes
